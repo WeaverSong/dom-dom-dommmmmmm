@@ -1,0 +1,15 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size:80px;
+}
+
+.flexbox {
+    display: flex;
+    margin: 2em;
+    padding: 1em;
+    flex-flow: row wrap;
+}
