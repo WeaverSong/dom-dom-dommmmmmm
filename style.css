@@ -5,6 +5,7 @@
     color: white;
     text-align: center;
     font-size:80px;
+    user-select: none;
 }
 
 .flexbox {
